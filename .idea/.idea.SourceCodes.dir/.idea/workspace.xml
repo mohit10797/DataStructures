@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89d61bed-c519-4ae5-a2b3-1ac071628302" name="Changes" comment="" />
+    <list default="true" id="89d61bed-c519-4ae5-a2b3-1ac071628302" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MinimumStack.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SourceCodes.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SourceCodes.dir/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MinimumStack.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Stacks using linked list.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ValidParenthesisUsingStacksCreatedUsingLinkedList.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/queues using stack and linked list.cs" root0="SKIP_HIGHLIGHTING" />
@@ -50,7 +54,7 @@
       <updated>1684178340312</updated>
       <workItem from="1684178342712" duration="10000" />
       <workItem from="1684178372731" duration="47000" />
-      <workItem from="1684178437003" duration="1817000" />
+      <workItem from="1684178437003" duration="3717000" />
     </task>
     <servers />
   </component>
